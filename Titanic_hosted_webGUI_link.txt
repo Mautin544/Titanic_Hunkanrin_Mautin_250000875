@@ -1,0 +1,6 @@
+NAME: HUNKANRIN MAUTIN GODWIN 
+REG NO: 250000875
+Machine Learning Algorithm: Te, Logistic Regression, Random Forest Classifier, K-Nearest Neighbours (KNN)
+Model Persistence Method: Joblib
+LIVE URL: 
+GIT HUB REPOSITORY LINK: https://github.com/Mautin544/Titanic_Hunkanrin_Mautin_250000875
